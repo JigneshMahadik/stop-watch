@@ -13,8 +13,8 @@ body {
     text-align: center;
     font-size: 4rem;
     font-weight: 500;
-    color: black;
-    text-shadow: 2px 2px black;
+    text-shadow: 2px 2px #f8a5c2;
+    color: #f92672;
     margin: 4px , auto;
     
 }
@@ -23,7 +23,7 @@ body {
 }
 
 button{
-    background-color: black ;
+    background-color: #f92672;
     color: white;
     border: none;
     font-size: 2rem;
